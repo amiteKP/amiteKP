@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kannu Priya</h1>
+I am persuing B. Tech majoring in Information Technology from KIIT University.
+<img align="right" alt="GIF" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp" />
 <h3 align="center">A passionate frontend developer and coder</h3>
 
 - 🌱 I’m currently learning **backend development**
