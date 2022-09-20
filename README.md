@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm Kannu Priya</h1>
+<h1 align="center">Hello 👋, I'm Kannu Priya (upcoming SWE @JPMorgan Chase & Co) </h1>
 I am persuing B. Tech major in Information Technology at KIIT-DU.
 <img align="right" width="400" alt="GIF" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e470v9m8243sa50gm09rji4c42cbnzabjdmq981gpc2&rid=200w.webp&ct=g" />
-<h3 align="left">A passionate frontend developer and coder</h3>
+<h3 align="left">A passionate full stack developer and coder</h3>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **different frameworks**
 
-- 💬 Ask me about **HTML,CSS,JS,Bootstrap**
+- 💬 Ask me about **HTML,CSS,JS,Bootstrap,Java,JDBC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
